@@ -19,11 +19,7 @@ Nazwa pliku, jego umiejscowienie i postać oraz postać wyniku na konsoli jest o
  *
  */
 
-
-
 package zad1;
-
-//Ważny komentarz
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -73,4 +69,3 @@ public class Main {
 		}
 	}
 }
-// komentarz2
