@@ -70,3 +70,4 @@ public class Main {
 	}
 }
 //testowy komentarz
+//testowy komentarz2
